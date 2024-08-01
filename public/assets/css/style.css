@@ -6093,16 +6093,16 @@ Footer Area CSS
 }
 
 .single-footer-widget {
-  margin-bottom: 30px;
+  margin-bottom: 0px;
 }
 
 .single-footer-widget .logo {
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 
 .single-footer-widget .logo p {
   color: #ffffff;
-  margin-top: 18px;
+  margin-top: 0px;
   margin-bottom: 0;
 }
 
@@ -6113,7 +6113,7 @@ Footer Area CSS
 
 .single-footer-widget .social {
   padding-left: 0;
-  margin-bottom: 0;
+  padding-top: 20px;
   list-style-type: none;
 }
 
@@ -6397,5 +6397,9 @@ Go Top CSS
   opacity: 1;
   visibility: visible;
   top: 50%;
+}
+
+.image{
+  padding-bottom:10px !important;
 }
 /*# sourceMappingURL=style.css.map */

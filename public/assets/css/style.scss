@@ -2159,6 +2159,7 @@ Projects Details Area CSS
             .social {
                 padding-left: 0;
                 margin-bottom: 0;
+             
                 list-style-type: none;
 
                 li {
@@ -5973,10 +5974,10 @@ Footer Area CSS
     background-color: #182c51;
 }
 .single-footer-widget {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 
     .logo {
-        margin-bottom: 20px;
+        margin-bottom: 0px;
 
         p {
             color: $white-color;
@@ -5993,6 +5994,7 @@ Footer Area CSS
     .social {
         padding-left: 0;
         margin-bottom: 0;
+        
         list-style-type: none;
 
         li {
